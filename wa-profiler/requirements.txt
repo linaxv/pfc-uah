@@ -4,7 +4,7 @@ dnslib==0.9.6
 dnspython==1.14.0
 dpkt==1.8.7
 elasticsearch==5.0.1
-impacket==0.9.12
+impacket==0.9.23
 netaddr==0.7.18
 pcapy==0.10.8
 phonenumbers==7.0.1
